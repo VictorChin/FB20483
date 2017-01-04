@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Ex5\Ex5\bin\Debug\Ex5.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Ex5\Ex5\bin\Debug\Ex5.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex5\Ex5\bin\Debug\Ex5.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Ex5\Ex5\obj\Debug\Ex5.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex5\Ex5\obj\Debug\Ex5.pdb

@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Ex3\Ex3\bin\Debug\Ex3.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Ex3\Ex3\bin\Debug\Ex3.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex3\Ex3\bin\Debug\Ex3.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Ex3\Ex3\obj\Debug\Ex3.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex3\Ex3\obj\Debug\Ex3.pdb

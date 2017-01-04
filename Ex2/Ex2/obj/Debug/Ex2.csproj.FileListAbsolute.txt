@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Ex2\Ex2\bin\Debug\Ex2.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Ex2\Ex2\bin\Debug\Ex2.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex2\Ex2\bin\Debug\Ex2.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Ex2\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Ex2\Ex2\obj\Debug\Ex2.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex2\Ex2\obj\Debug\Ex2.pdb
