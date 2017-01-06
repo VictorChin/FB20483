@@ -6,3 +6,6 @@ c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication5
 c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Vehicle.pdb
 c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
 c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+\\172.16.15.187\Users\Administrator\Source\Repos\FB20483\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+\\172.16.15.187\Users\Administrator\Source\Repos\FB20483\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+\\172.16.15.187\Users\Administrator\Source\Repos\FB20483\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandlingExample.exe.config
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandlingExample.exe
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandlingExample.pdb
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandlingExample.exe
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandlingExample.pdb

@@ -6,3 +6,6 @@ c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication6
 c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
 c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\Newtonsoft.Json.dll
 c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\Newtonsoft.Json.xml
+\\172.16.15.187\Users\Administrator\Source\Repos\FB20483\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+\\172.16.15.187\Users\Administrator\Source\Repos\FB20483\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+\\172.16.15.187\Users\Administrator\Source\Repos\FB20483\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\bin\ExampleService.dll.config
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\bin\ExampleService.dll
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\bin\ExampleService.pdb
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.dll
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.xml
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\obj\Debug\ExampleService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\obj\Debug\ExampleService.dll
+C:\Users\Administrator\Source\Repos\FB20483\ELExample\ExceptionHandling\ExampleService\obj\Debug\ExampleService.pdb

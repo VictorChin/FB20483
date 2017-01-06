@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{037F43D9-80F4-4DB0-80DC-A53748410357}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E3BAA1FC-1469-40F2-81CB-707DE03493B9} = {E3BAA1FC-1469-40F2-81CB-707DE03493B9}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleService", "ExampleService\ExampleService.csproj", "{E3BAA1FC-1469-40F2-81CB-707DE03493B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C2E7DDE1-AFFE-4F27-A8B7-8186962E36C2}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamDemo", "..\..\StreamSample\ConsoleApplication1\StreamDemo.csproj", "{5FFC0AF3-B5F0-4E52-B6DF-1BF26816A165}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite1(1)", "..\..\..\..\..\Documents\Visual Studio 2015\WebSites\WebSite1\", "{9EDA57CC-B3D7-4066-8A40-4FBC660A2B48}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50000"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Documents\Visual Studio 2015\WebSites\WebSite1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50000\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50000"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Documents\Visual Studio 2015\WebSites\WebSite1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50000\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50000"
+		SlnRelativePath = "..\..\..\..\..\Documents\Visual Studio 2015\WebSites\WebSite1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037F43D9-80F4-4DB0-80DC-A53748410357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037F43D9-80F4-4DB0-80DC-A53748410357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037F43D9-80F4-4DB0-80DC-A53748410357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037F43D9-80F4-4DB0-80DC-A53748410357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BAA1FC-1469-40F2-81CB-707DE03493B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BAA1FC-1469-40F2-81CB-707DE03493B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BAA1FC-1469-40F2-81CB-707DE03493B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BAA1FC-1469-40F2-81CB-707DE03493B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFC0AF3-B5F0-4E52-B6DF-1BF26816A165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFC0AF3-B5F0-4E52-B6DF-1BF26816A165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFC0AF3-B5F0-4E52-B6DF-1BF26816A165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFC0AF3-B5F0-4E52-B6DF-1BF26816A165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDA57CC-B3D7-4066-8A40-4FBC660A2B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDA57CC-B3D7-4066-8A40-4FBC660A2B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDA57CC-B3D7-4066-8A40-4FBC660A2B48}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDA57CC-B3D7-4066-8A40-4FBC660A2B48}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.ExceptionHandling.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.ExceptionHandling.WCF.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.ExceptionHandling.Logging.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
