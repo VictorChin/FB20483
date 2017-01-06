@@ -2,5 +2,6 @@
 {
     internal class Person
     {
+        public int MyProperty { get; set; }
     }
 }
