@@ -1,0 +1,6 @@
+c:\users\victor chin\documents\visual studio 2015\Projects\ConsoleApplication2\AsyncAwaitSimpleDemo\bin\Debug\AsyncAwaitSimpleDemo.exe.config
+c:\users\victor chin\documents\visual studio 2015\Projects\ConsoleApplication2\AsyncAwaitSimpleDemo\bin\Debug\AsyncAwaitSimpleDemo.exe
+c:\users\victor chin\documents\visual studio 2015\Projects\ConsoleApplication2\AsyncAwaitSimpleDemo\bin\Debug\AsyncAwaitSimpleDemo.pdb
+c:\users\victor chin\documents\visual studio 2015\Projects\ConsoleApplication2\AsyncAwaitSimpleDemo\obj\Debug\AsyncAwaitSimpleDemo.csprojResolveAssemblyReference.cache
+c:\users\victor chin\documents\visual studio 2015\Projects\ConsoleApplication2\AsyncAwaitSimpleDemo\obj\Debug\AsyncAwaitSimpleDemo.exe
+c:\users\victor chin\documents\visual studio 2015\Projects\ConsoleApplication2\AsyncAwaitSimpleDemo\obj\Debug\AsyncAwaitSimpleDemo.pdb

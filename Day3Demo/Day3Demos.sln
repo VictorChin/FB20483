@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContractSerializer", "ConsoleApplication2\DataContractSerializer.csproj", "{96B8957A-9614-4DBA-A455-5A8F91700D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitSimpleDemo", "AsyncAwaitSimpleDemo\AsyncAwaitSimpleDemo.csproj", "{23AC8B7A-48B7-46FE-AE1B-6738A88F0B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputeHash", "ComputeHash\ComputeHash.csproj", "{86A8E7CF-DC64-409B-BD16-5D9D448B1BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B8957A-9614-4DBA-A455-5A8F91700D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B8957A-9614-4DBA-A455-5A8F91700D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B8957A-9614-4DBA-A455-5A8F91700D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B8957A-9614-4DBA-A455-5A8F91700D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23AC8B7A-48B7-46FE-AE1B-6738A88F0B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AC8B7A-48B7-46FE-AE1B-6738A88F0B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AC8B7A-48B7-46FE-AE1B-6738A88F0B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AC8B7A-48B7-46FE-AE1B-6738A88F0B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A8E7CF-DC64-409B-BD16-5D9D448B1BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A8E7CF-DC64-409B-BD16-5D9D448B1BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A8E7CF-DC64-409B-BD16-5D9D448B1BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A8E7CF-DC64-409B-BD16-5D9D448B1BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
